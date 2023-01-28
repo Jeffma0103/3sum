@@ -1,4 +1,4 @@
-# 3sum
+# 3sum (medium)
 Solution of 3sum
 
 ## 題目 https://leetcode.com/problems/3sum/description/
